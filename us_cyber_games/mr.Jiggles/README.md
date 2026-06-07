@@ -1,4 +1,7 @@
 # Mr. Jiggles (Forensics)
+Mr Jiggles my pet cat ran away and when I put up flyers this was the photo I used. I feel it really captures his catty essence. 
+Regardless, I think it would have been helpful if I had been able to extract data about him and maybe learn more about his whereabouts. 
+(He came home 2 weeks ago don’t worry)
 
 ## Steps:
 1. Open the file, check it is actually a JPEG with `file`
