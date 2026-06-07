@@ -2,6 +2,10 @@
 
 ## Steps:
 1. Open the file, check it is actually a JPEG with `file`
+```
+$ file TheCatMrJiggles.jpg 
+TheCatMrJiggles.jpg: JPEG image data, Exif Standard: [TIFF image data, big-endian, direntries=6, orientation=upper-left, xresolution=86, yresolution=94, resolutionunit=2], progressive, precision 8, 2359x2613, components 3
+```
 2. Use `Exiftool` to read meta information
 ```
 $ exiftool TheCatMrJiggles.jpg 
